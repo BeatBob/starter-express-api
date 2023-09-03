@@ -1,6 +1,6 @@
 {
   "name": "starter-express-api",
-  "version": "1.0.0",
+  "version": "1.2.13",
   "description": "A project that does something awesome",
   "main": "index.js",
   "scripts": {
