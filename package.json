@@ -6,6 +6,11 @@
   "scripts": {
     "start": "node server.js"
   },
+  "keywords": [
+    "descriptive",
+    "related",
+    "words"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cyclic-software/starter-express-api.git"
