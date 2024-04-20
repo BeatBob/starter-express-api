@@ -4,7 +4,7 @@
   "description": "A project that does something awesomes",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node --watch server.js"
   },
   "keywords": [
     "descriptive",
